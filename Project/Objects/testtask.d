@@ -1,0 +1,10 @@
+.\objects\testtask.o: ..\User\Task\TestTask.cpp
+.\objects\testtask.o: ..\User\Task/TestTask.h
+.\objects\testtask.o: ..\User\Task/Task.h
+.\objects\testtask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\testtask.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\testtask.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\testtask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\testtask.o: ..\User\Event/Receiver.h
+.\objects\testtask.o: ..\User\Event/Event.h
+.\objects\testtask.o: ..\User\Event/TestEvent.h
