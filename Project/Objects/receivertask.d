@@ -1,10 +1,10 @@
 .\objects\receivertask.o: ..\User\Task\ReceiverTask.cpp
 .\objects\receivertask.o: ..\User\Task/ReceiverTask.h
 .\objects\receivertask.o: ..\User\Task/Task.h
-.\objects\receivertask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\receivertask.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\receivertask.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\receivertask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\receivertask.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\receivertask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\receivertask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\receivertask.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\receivertask.o: ..\User\Driver/MainUart.h
 .\objects\receivertask.o: ..\CMSIS\stm32f4xx.h
 .\objects\receivertask.o: ..\CMSIS\core_cm4.h

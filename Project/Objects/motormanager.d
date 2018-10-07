@@ -2,12 +2,12 @@
 .\objects\motormanager.o: ..\User\Driver/MotorManager.h
 .\objects\motormanager.o: ..\CMSIS\stm32f4xx.h
 .\objects\motormanager.o: ..\CMSIS\core_cm4.h
-.\objects\motormanager.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motormanager.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
 .\objects\motormanager.o: ..\CMSIS\core_cmInstr.h
 .\objects\motormanager.o: ..\CMSIS\core_cmFunc.h
 .\objects\motormanager.o: ..\CMSIS\core_cmSimd.h
 .\objects\motormanager.o: ..\CMSIS\system_stm32f4xx.h
-.\objects\motormanager.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\motormanager.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\motormanager.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\motormanager.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\motormanager.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\motormanager.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\motormanager.o: ..\User\Driver/CurrentAdc.h

@@ -1,10 +1,10 @@
 .\objects\statusupdatetask.o: ..\User\Task\StatusUpdateTask.cpp
 .\objects\statusupdatetask.o: ..\User\Task/StatusUpdateTask.h
 .\objects\statusupdatetask.o: ..\User\Task/Task.h
-.\objects\statusupdatetask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\RTX\Include\rtx_os.h
-.\objects\statusupdatetask.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
-.\objects\statusupdatetask.o: D:\keil\ARM\ARMCC\Bin\..\include\stddef.h
-.\objects\statusupdatetask.o: D:\keil\ARM\PACK\ARM\CMSIS\5.3.0\CMSIS\RTOS2\Include\cmsis_os2.h
+.\objects\statusupdatetask.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\RTX\Include\rtx_os.h
+.\objects\statusupdatetask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\statusupdatetask.o: C:\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\statusupdatetask.o: C:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\RTOS2\Include\cmsis_os2.h
 .\objects\statusupdatetask.o: ..\User\Driver/MotorManager.h
 .\objects\statusupdatetask.o: ..\CMSIS\stm32f4xx.h
 .\objects\statusupdatetask.o: ..\CMSIS\core_cm4.h
